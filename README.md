@@ -10,8 +10,14 @@ Web 운영 관련 기초 지식 정리
 ## Proxy
 * [포워드 프록시(forward proxy) 리버스 프록시(reverse proxy) 의 차이](https://www.lesstif.com/system-admin/forward-proxy-reverse-proxy-21430345.html)
 
-## Web Application
+## Web Server
 * [WSGI, WAS, CGI 이해](https://brownbears.tistory.com/350)
+* [웹 서버 소프트웨어 Apache와 NginX 비교](https://cntechsystems.tistory.com/24)
+
+## 이벤트 드리븐 아키텍쳐(Event Driven Architecture EDA)
+* [요즘-제일-핫하다는-이벤트-드리븐-누구냐-넌](https://news.samsung.com/kr/%EC%9A%94%EC%A6%98-%EC%A0%9C%EC%9D%BC-%ED%95%AB%ED%95%98%EB%8B%A4%EB%8A%94-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%93%9C%EB%A6%AC%EB%B8%90-%EB%88%84%EA%B5%AC%EB%83%90-%EB%84%8C)
+* [[프로그래밍 패러다임]이벤트 기반 프로그래밍(Event-based programming)](https://kamang-it.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DEvent-based-programming)
+
 
 ## Docker
 

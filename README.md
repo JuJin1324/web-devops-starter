@@ -20,12 +20,14 @@ Web 운영 관련 기초 지식 정리
 
 
 ## Docker
-
+* [공식 사이트](https://www.docker.com/)
+* [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
 
 ## 메세지큐
 * [참조링크](https://12bme.tistory.com/176)
 
 ## Kafka
+* [공식 사이트](https://kafka.apache.org/)
 * [참조링크](https://taetaetae.github.io/2017/11/02/what-is-kafka/)
 
 ## Reactive 프로그래밍

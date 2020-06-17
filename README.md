@@ -10,6 +10,9 @@ Web 운영 관련 기초 지식 정리
 ## Proxy
 * [포워드 프록시(forward proxy) 리버스 프록시(reverse proxy) 의 차이](https://www.lesstif.com/system-admin/forward-proxy-reverse-proxy-21430345.html)
 
+## Web Application
+* [WSGI, WAS, CGI 이해](https://brownbears.tistory.com/350)
+
 ## Docker
 
 

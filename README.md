@@ -66,3 +66,8 @@ Web 운영 관련 기초 지식 정리
 
 ## CIDR, Subnet mask
 * [[네트워크 기초 지식] IP, CIDR 표기법, 서브넷 마스크](https://cjwoov.tistory.com/27)   
+
+## CORS policy
+자바스크립트에서 자바스크립트 파일의 도메인과 다른 도메인의 웹페이지 접근 혹은 다른 도메인의 API 호출 시 CORS policy...어쩌고 Error가 나타나게된다.
+CORS가 무엇인지 다음의 링크를 참조하자.
+* [Cross Origin Resource Sharing - CORS](https://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)

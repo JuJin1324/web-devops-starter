@@ -5,8 +5,10 @@ Web 운영 관련 기초 지식 정리
 * [참조링크](https://wodonggun.github.io/wodonggun.github.io/study/IaaS,-PaaS,-SaaS.html)
 
 ## Inbound / Outbound
-* Inbound = ingress : 서버를 기준으로 외부 클라이언트에서 요청이 서버로 들어올 때 허용할 클라이언트의 IP 지정
-* Outbound = egress : 서버를 기준으로 트래픽을 밖으로 내보낼 때 허용할 IP 지정
+* Inbound = ingress : 서버를 기준으로 외부 클라이언트에서 요청이 서버로 들어올 때 허용할 클라이언트의 IP 지정  
+* Outbound = egress : 서버를 기준으로 트래픽을 밖으로 내보낼 때 허용할 IP 지정  
+* 참조링크: [방화벽 인바운드 아웃바운드 개념](https://m.blog.naver.com/PostView.nhn?blogId=blogpyh&logNo=220731762459&proxyReferer=https:%2F%2Fwww.google.com%2F)
+
 
 ## 마이크로서비스 아키텍처
 * [마이크로서비스 아키텍처. 그것이 뭣이 중헌디?](http://guruble.com/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4microservice-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AD%A3%EC%9D%B4-%EC%A4%91%ED%97%8C%EB%94%94/)

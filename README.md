@@ -44,7 +44,7 @@ Web 운영 관련 기초 지식 정리
 * [쿠버네티스란 무엇인가?](https://kubernetes.io/ko/docs/concepts/overview/what-is-kubernetes/)
 
 ## 메세지큐
-* [참조링크](https://12bme.tistory.com/176)
+* [[오픈소스] 메시지큐(Message Queue) 알아보기](https://12bme.tistory.com/176)
 
 ## Kafka
 * [공식 사이트](https://kafka.apache.org/)

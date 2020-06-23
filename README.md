@@ -79,3 +79,6 @@ Web 운영 관련 기초 지식 정리
 자바스크립트에서 자바스크립트 파일의 도메인과 다른 도메인의 웹페이지 접근 혹은 다른 도메인의 API 호출 시 CORS policy...어쩌고 Error가 나타나게된다.
 CORS가 무엇인지 다음의 링크를 참조하자.
 * [Cross Origin Resource Sharing - CORS](https://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
+
+## Protocol
+* RDP(3389): 원격 데스크톱 프로토콜(Remote Desktop Protocol, 줄여서 RDP)은 마이크로소프트사가 개발한 사유 프로토콜로, 다른 컴퓨터에 그래픽 사용자 인터페이스를 제공하는 프로토콜이다.

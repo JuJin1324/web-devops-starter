@@ -11,6 +11,9 @@ Web 운영 관련 기초 지식 정리
 * 해당 서버가 **Stateless**하다 : Inbound의 정책을 기억하지 않고 요청에 대한 응답을 내보낼 시 Outbound 정책을 거쳐서 내보내기 때문에 요청한 클라이언트의 IP가 Inbound 뿐만 아니라 Outbound 정책에도 허용되어 있어야 한다.
 * 참조링크: [방화벽 인바운드 아웃바운드 개념](https://m.blog.naver.com/PostView.nhn?blogId=blogpyh&logNo=220731762459&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
+## REST API / RESTful
+* [[HTTP] REST API 란](https://velog.io/@wlsdud2194/HTTP-REST-API-%EB%9E%80)
+* [[Network] REST란? REST API란? RESTful이란?](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
 
 ## 마이크로서비스 아키텍처
 * [마이크로서비스 아키텍처. 그것이 뭣이 중헌디?](http://guruble.com/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4microservice-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AD%A3%EC%9D%B4-%EC%A4%91%ED%97%8C%EB%94%94/)

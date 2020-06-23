@@ -7,6 +7,8 @@ Web 운영 관련 기초 지식 정리
 ## Inbound / Outbound
 * Inbound = ingress : 서버를 기준으로 외부 클라이언트에서 요청이 서버로 들어올 때 허용할 클라이언트의 IP 지정  
 * Outbound = egress : 서버를 기준으로 트래픽을 밖으로 내보낼 때 허용할 IP 지정  
+* 해당 서버가 **Stateful**하다 : Inbound의 정책을 그대로 기억하고 있어서 요청에 대한 응답을 내보낼 때 Outbound를 따로 지정해주지 않아도 요청한 IP로 응답을 내보내준다.
+* 해당 서버가 **Stateless**하다 : Inbound의 정책을 기억하지 않고 요청에 대한 응답을 내보낼 시 Outbound 정책을 거쳐서 내보내기 때문에 요청한 클라이언트의 IP가 Inbound 뿐만 아니라 Outbound 정책에도 허용되어 있어야 한다.
 * 참조링크: [방화벽 인바운드 아웃바운드 개념](https://m.blog.naver.com/PostView.nhn?blogId=blogpyh&logNo=220731762459&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 

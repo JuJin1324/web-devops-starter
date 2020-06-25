@@ -55,6 +55,9 @@ Web 운영 관련 기초 지식 정리
 ## TCP/IP
 * [Network - ICMP (인터넷 제어 메시지 프로토콜)](https://hack-cracker.tistory.com/124)
 
+## NTP Server
+* [[ NTP ] NTP 서버란?](https://aorica.tistory.com/46)
+
 ## HTTP
 * [Http 통신과 Socket 통신 차이](https://mangkyu.tistory.com/48)
 * [Http 프로토콜이란](https://gmlwjd9405.github.io/2019/04/17/what-is-http-protocol.html)

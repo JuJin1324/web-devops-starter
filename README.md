@@ -1,5 +1,5 @@
 # web-devops-starter
-Web 운영 관련 기초 지식 정리
+Web 개발/ 관련 기초 지식 정리
 
 ## IaaS, PaaS, SaaS
 * [참조링크](https://wodonggun.github.io/wodonggun.github.io/study/IaaS,-PaaS,-SaaS.html)

@@ -67,7 +67,7 @@ Web 개발/ 관련 기초 지식 정리
 * [참조링크](https://leeph.tistory.com/24)
 
 ## 병렬 프로그래밍
-* []()
+* [동기(Synchronous)는 정확히 무엇을 의미하는걸까?](https://evan-moon.github.io/2019/09/19/sync-async-blocking-non-blocking/)
 
 ## three-tier architectures
 * [3 Tier Architecture(3계층 구조)](http://blog.naver.com/PostView.nhn?blogId=limoremo&logNo=220073573980)   

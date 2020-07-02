@@ -66,6 +66,9 @@ Web 개발/ 관련 기초 지식 정리
 * [참조링크](https://tech.peoplefund.co.kr/2017/08/02/non-blocking-asynchronous-concurrency.html)   
 * [참조링크](https://leeph.tistory.com/24)
 
+## 병렬 프로그래밍
+* []()
+
 ## three-tier architectures
 * [3 Tier Architecture(3계층 구조)](http://blog.naver.com/PostView.nhn?blogId=limoremo&logNo=220073573980)   
 
@@ -89,3 +92,6 @@ CORS가 무엇인지 다음의 링크를 참조하자.
 
 ## Protocol
 * RDP(3389): 원격 데스크톱 프로토콜(Remote Desktop Protocol, 줄여서 RDP)은 마이크로소프트사가 개발한 사유 프로토콜로, 다른 컴퓨터에 그래픽 사용자 인터페이스를 제공하는 프로토콜이다.
+
+## 정규 표현식
+* [정규표현식(Regular Expression)을 소개합니다.](http://www.nextree.co.kr/p4327/)

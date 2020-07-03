@@ -99,3 +99,7 @@ CORS가 무엇인지 다음의 링크를 참조하자.
 
 ## Lazy loading
 * [레이지 로딩 - Lazy Loading](https://blog.naver.com/PostView.nhn?blogId=dilrong&logNo=221544559266&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
+
+## SMP architecture
+SMP: Symmetric MultiProcessing
+* [대칭형 다중 처리 - 위키](https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B9%AD%ED%98%95_%EB%8B%A4%EC%A4%91_%EC%B2%98%EB%A6%AC)

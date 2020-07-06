@@ -27,6 +27,7 @@ Web 개발/ 관련 기초 지식 정리
 
 ## Proxy
 * [포워드 프록시(forward proxy) 리버스 프록시(reverse proxy) 의 차이](https://www.lesstif.com/system-admin/forward-proxy-reverse-proxy-21430345.html)
+* [Nginx Reverse Proxy 사용하기](https://medium.com/sjk5766/nginx-reverse-proxy-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-e11e18fcf843)
 
 ## Web Server
 * [WSGI, WAS, CGI 이해](https://brownbears.tistory.com/350)

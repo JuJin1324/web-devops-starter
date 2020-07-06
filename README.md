@@ -5,7 +5,7 @@ Web 개발/ 관련 기초 지식 정리
 * [참조링크](https://wodonggun.github.io/wodonggun.github.io/study/IaaS,-PaaS,-SaaS.html)
 
 ## Inbound / Outbound
-* Inbound = ingress : 서버를 기준으로 외부 클라이언트에서 요청이 서버로 들어올 때 허용할 클라이언트의 IP 지정  
+* Inbound = ingress : 서버를 기준으로 외부에서 들어오는 IP 중 허용할 IP 지정  
 * Outbound = egress : 서버를 기준으로 트래픽을 밖으로 내보낼 때 허용할 IP 지정  
 * 해당 서버가 **Stateful**하다 : Inbound의 정책을 그대로 기억하고 있어서 요청에 대한 응답을 내보낼 때 Outbound를 따로 지정해주지 않아도 요청한 IP로 응답을 내보내준다.
 * 해당 서버가 **Stateless**하다 : Inbound의 정책을 기억하지 않고 요청에 대한 응답을 내보낼 시 Outbound 정책을 거쳐서 내보내기 때문에 요청한 클라이언트의 IP가 Inbound 뿐만 아니라 Outbound 정책에도 허용되어 있어야 한다.

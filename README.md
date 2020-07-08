@@ -104,3 +104,8 @@ CORS가 무엇인지 다음의 링크를 참조하자.
 ## SMP architecture
 SMP: Symmetric MultiProcessing
 * [대칭형 다중 처리 - 위키](https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B9%AD%ED%98%95_%EB%8B%A4%EC%A4%91_%EC%B2%98%EB%A6%AC)
+
+## AWS
+### ELB
+* Connection Draining: Auto Scaling이 사용자의 요청을 처리 중인 EC2 인스턴스를 바로 삭제하지 못하도록 방지하는 기능입니다. 예를 들어 사용자 수가 줄어들면 Auto Scaling이 EC2 인스턴스를 삭제합니다. 마침 사용자가 해당 EC2 인스턴스에서 파일을 다운로드하고 있었는데 EC2 인스턴스가 삭제되어버리면 파일 다운로드는 중간에 끊어집니다. EC2 인스턴스를 삭제하기 전에 사용자의 요청을 처리할 수 있도록 지정한 시간만큼 기다립니다. 그리고 기다리는 동안에는 새로운 커넥션을 받지 않습니다.
+* 참조사이트 링크: [아마존 웹 서비스를 다루는 기술 18장 - 부하 분산과 고가용성을 제공하는 ELB](http://pyrasis.com/book/TheArtOfAmazonWebServices/Chapter18)

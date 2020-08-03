@@ -1,6 +1,12 @@
 # web-devops-starter
 Web 개발/ 관련 기초 지식 정리
 
+## 웹 서버(서비스) 용어 정리
+### scalable/scalability
+* 웹 애플리케이션이 'scalable하다'라는 말은 사용자 수가 급증해도 애플리케이션이 멈추거나 성능이 크게 떨어지는 일이 없다. AWS의 Auto Scaling을 생각하면 됨.
+* [scalable/scalability, 규모 가변적/규모 가변성](http://occamsrazr.net/tt/entry/scalablescalability-%EA%B7%9C%EB%AA%A8-%EA%B0%80%EB%B3%80%EC%A0%81%EA%B7%9C%EB%AA%A8-%EA%B0%80%EB%B3%80%EC%84%B1)
+
+
 ## IaaS, PaaS, SaaS
 * [참조링크](https://wodonggun.github.io/wodonggun.github.io/study/IaaS,-PaaS,-SaaS.html)
 

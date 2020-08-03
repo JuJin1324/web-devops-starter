@@ -6,6 +6,9 @@ Web 개발/ 관련 기초 지식 정리
 * 웹 애플리케이션이 'scalable하다'라는 말은 사용자 수가 급증해도 애플리케이션이 멈추거나 성능이 크게 떨어지는 일이 없다. AWS의 Auto Scaling을 생각하면 됨.
 * [scalable/scalability, 규모 가변적/규모 가변성](http://occamsrazr.net/tt/entry/scalablescalability-%EA%B7%9C%EB%AA%A8-%EA%B0%80%EB%B3%80%EC%A0%81%EA%B7%9C%EB%AA%A8-%EA%B0%80%EB%B3%80%EC%84%B1)
 
+### 고가용성(High Availablity)
+* 고가용성(High Availability)이란 서버와 네트워크, 프로그램 등의 정보 시스템이 상당히 오랜 기간 동안 지속적으로 정상 운영이 가능한 성질을 말한다. 고가용성이란 "가용성이 높다"는 뜻으로서, "절대 고장 나지 않음"을 의미한다. 
+* [위키백과 - ](https://ko.wikipedia.org/wiki/%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1)
 
 ## IaaS, PaaS, SaaS
 * [참조링크](https://wodonggun.github.io/wodonggun.github.io/study/IaaS,-PaaS,-SaaS.html)
